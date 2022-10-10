@@ -1,4 +1,4 @@
-# Python-mini-projects
+# Crystal Structure Prediction
 
 Crystal structures of ABO3 compounds are classified using Decision Tree and Random Forest classifier
 
