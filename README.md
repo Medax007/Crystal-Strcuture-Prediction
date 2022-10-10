@@ -21,10 +21,7 @@ Materials crystalizing in the perovskite crystal structure are common crystals t
 
 Target label: Lowest Distortion
 
-Crystal Structure: cubic, tetragonal, orthorhombic, and rhombohedral structure
-
-
-Model categorized perovskites into 6 different crystal structures with accuracy:
+Model categorized perovskites into 4 different crystal structures namely, cubic, tetragonal, orthorhombic, and rhombohedral structure with accuracy:
 1. Decision Tree: 73.52%
 2. Random Forest: 80.19%
 
