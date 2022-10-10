@@ -18,6 +18,7 @@ Crystal structures of ABO3 compounds are classified using Decision Tree and Rand
 | Μ | Octahedral factor |
 
 Target label: Lowest Distortion
+
 Crystal Structure: cubic, tetragonal, orthorhombic, and rhombohedral structure
 
 
